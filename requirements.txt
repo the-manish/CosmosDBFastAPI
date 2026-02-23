@@ -1,0 +1,6 @@
+fastapi==0.115.5
+uvicorn[standard]==0.32.0
+gunicorn==21.2.0
+azure-cosmos==4.7.0
+pydantic==2.12.5
+typing-extensions>=4.8.0
